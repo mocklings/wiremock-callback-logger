@@ -1,6 +1,8 @@
 # wiremock-callback-logger
 
-How to use WireMock as a callback logger
+How to use WireMock as a callback logger. This is the repository for the following newsletter:
+
+https://mocklings.substack.com/p/using-wiremock-as-a-callback-logger
 
 ## Running in Docker
 
