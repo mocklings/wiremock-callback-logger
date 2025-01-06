@@ -1,0 +1,13 @@
+{
+  "request": {
+    "urlPattern": ".*"
+  },
+  "response": {
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "status": "success"
+    }
+  }
+}

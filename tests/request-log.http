@@ -1,0 +1,13 @@
+### GET all requests sent to WireMock from the request log
+GET http://localhost:8080/__admin/requests
+
+# curl -X GET --location "http://localhost:8080/__admin/requests"
+
+###
+
+### DELETE all requests sent to WireMock from the request log
+DELETE http://localhost:8080/__admin/requests
+
+# curl -X DELETE --location "http://localhost:8080/__admin/requests"
+
+###

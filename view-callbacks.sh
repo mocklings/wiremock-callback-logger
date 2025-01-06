@@ -1,0 +1,1 @@
+watch -n 2 "curl -s http://localhost:8080/__admin/requests | jq '[.requests[] | {date: .request.loggedDateString, method: .request.method, url: .request.url, body: .request.body}]'"
